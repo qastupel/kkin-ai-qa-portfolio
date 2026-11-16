@@ -27,7 +27,7 @@ This repository contains all artifacts created during the manual testing of the 
 ## 4. Test Environment
 * **OS:** macOS 27.0.1 (26A434)
 * **Browsers:** Google Chrome 157.0.8103.38 (primary), Safari 27.0.1
-* **Tools:** Chrome DevTools (Network, Console, Device Toolbar, Lighthouse), XMind / Draw.io, screenshot tools (Lightshot / Monosnap).
+* **Tools:** Chrome DevTools (Network, Console, Device Toolbar, Lighthouse), Figma, screenshot tools (Lightshot).
 
 <img width="1719" height="1018" alt="kernell" src="https://github.com/user-attachments/assets/da793226-054f-4ff1-b5cb-5eb033a7563f" />
 

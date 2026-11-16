@@ -18,12 +18,12 @@ Testing is conducted using the Black-Box Testing method in the complete absence 
 This repository contains all artifacts created during the manual testing of the project:
 | Folder / File | Description of Artifact |	Status |
 | --- | --- | --- |
-|README.md|	General project description, testing goals, and repository navigation.|	✅ Ready|
-| /MindMap/	| Application mind map (kkin_mindmap.png / .xmind) reflecting module decomposition and user paths.	| 🔄 In Progress |
-| /TestDesign/	| Checklists for smoke and regression testing, as well as detailed test cases in .md and .xlsx formats. |	⏳ Pending |
-| /BugReports/ |	Registry of found defects and detailed bug reports (Summary, STR, ER/AR, Severity/Priority, console logs, and screenshots). |	⏳ Pending |
-| /NonFunctional/ |	Performance measurement results (Google Lighthouse reports) and a basic security check checklist.	| ⏳ Pending |
-| /TestReport/ |	Final Test Summary Report with metrics, bug statistics, and general product quality conclusions.	| ⏳ Pending |
+|[README.md](README.md)|	General project description, testing goals, and repository navigation.|	✅ Ready|
+| [MindMap](/MindMap/)	| Application mind map (kkin_mindmap.png / .xmind) reflecting module decomposition and user paths.	| 🔄 In Progress |
+| [TestDesign](/TestDesign/)	| Checklists for smoke and regression testing, as well as detailed test cases in .md and .xlsx formats. |	⏳ Pending |
+| [BugReports](/BugReports/) |	Registry of found defects and detailed bug reports (Summary, STR, ER/AR, Severity/Priority, console logs, and screenshots). |	⏳ Pending |
+| [NonFunctional](/NonFunctional/) |	Performance measurement results (Google Lighthouse reports) and a basic security check checklist.	| ⏳ Pending |
+| [TestReport](/TestReport/) |	Final Test Summary Report with metrics, bug statistics, and general product quality conclusions.	| ⏳ Pending |
 ## 4. Test Environment
 * **OS:** macOS 27.0.1 (26A434)
 * **Browsers:** Google Chrome 157.0.8103.38 (primary), Safari 27.0.1

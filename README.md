@@ -19,8 +19,8 @@ This repository contains all artifacts created during the manual testing of the 
 | Folder / File | Description of Artifact |	Status |
 | --- | --- | --- |
 |[README.md](README.md)|	General project description, testing goals, and repository navigation.|	✅ Ready|
-| [MindMap](/MindMap/)	| Application mind map (kkin_mindmap.png / .xmind) reflecting module decomposition and user paths.	| 🔄 In Progress |
-| [TestDesign](/TestDesign/)	| Checklists for smoke and regression testing, as well as detailed test cases in .md and .xlsx formats. |	⏳ Pending |
+| [MindMap](/MindMap/MindMap.png)	| Application mind map (MindMap.png / .xmind) reflecting module decomposition and user paths.	| ✅ Ready |
+| [TestDesign](/TestDesign/)	| Checklists for smoke and regression testing, as well as detailed test cases in .md and .xlsx formats. |	🔄 In Progress |
 | [BugReports](/BugReports/) |	Registry of found defects and detailed bug reports (Summary, STR, ER/AR, Severity/Priority, console logs, and screenshots). |	⏳ Pending |
 | [NonFunctional](/NonFunctional/) |	Performance measurement results (Google Lighthouse reports) and a basic security check checklist.	| ⏳ Pending |
 | [TestReport](/TestReport/) |	Final Test Summary Report with metrics, bug statistics, and general product quality conclusions.	| ⏳ Pending |

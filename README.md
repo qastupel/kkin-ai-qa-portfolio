@@ -20,7 +20,7 @@ This repository contains all artifacts created during the manual testing of the 
 | --- | --- | --- |
 |[README.md](README.md)|	General project description, testing goals, and repository navigation.|	✅ Ready|
 | [MindMap](/MindMap/MindMap.png)	| Application mind map (MindMap.png / .xmind) reflecting module decomposition and user paths.	| ✅ Ready |
-| [TestDesign](/TestDocumentation/CheckList_TestCase.xlsx/)	| Checklists for smoke and regression testing, as well as detailed test cases in .xlsx formats. ([Open in Google Sheets](https://docs.google.com/spreadsheets/d/1tEOSVaFmJbC1gy3aZ7HHkyiKt-3L6kc9/edit?usp=share_link&ouid=109465550363910390973&rtpof=true&sd=true)) |	🔄 In Progress |
+| [TestDesign](/TestDocumentation/CheckList_TestCase.xlsx/)	| Checklists for smoke and regression testing, as well as detailed test cases in .xlsx formats. ([Open in Google Sheets](https://docs.google.com/spreadsheets/d/1tEOSVaFmJbC1gy3aZ7HHkyiKt-3L6kc9/edit?usp=share_link&ouid=109465550363910390973&rtpof=true&sd=true)) |	✅ Ready |
 | [BugReports](/BugReports/) |	Registry of found defects and detailed bug reports (Summary, STR, ER/AR, Severity/Priority, console logs, and screenshots). |	⏳ Pending |
 | [NonFunctional](/NonFunctional/) |	Performance measurement results (Google Lighthouse reports) and a basic security check checklist.	| ⏳ Pending |
 | [TestReport](/TestReport/) |	Final Test Summary Report with metrics, bug statistics, and general product quality conclusions.	| ⏳ Pending |
